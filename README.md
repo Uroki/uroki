@@ -1,4 +1,4 @@
-[![npm (scoped)](https://img.shields.io/badge/RT-jquest-darkseagreen.svg?style=for-the-badge&logo=oxygen)](https://uroki.me)
+[![uroki (rt)](https://img.shields.io/badge/uroki-rt-darkseagreen.svg?style=for-the-badge&logo=oxygen)](https://github.com/Uroki)
 
 - 👋 Hi, I’m @Uroki
 - 👀 I’m interested in ...
