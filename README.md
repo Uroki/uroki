@@ -1,3 +1,6 @@
+## Uroki RT ( Hussein Shaker )
+### Iraqi Programmer & The Antiku Leader
+
 [![uroki (rt)](https://img.shields.io/badge/uroki-rt-darkseagreen.svg?style=for-the-badge&logo=oxygen)](https://github.com/Uroki)
 
 - 👋 Hi, I’m @Uroki
