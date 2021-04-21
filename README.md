@@ -2,7 +2,7 @@
 ### Iraqi Programmer & The Antiku Leader
 
 [![Uroki RT](https://img.shields.io/badge/uroki-rt-darkseagreen.svg?style=for-the-badge&logo=oxygen)](https://github.com/Uroki)
-[![Uroki RT](https://uroki-assets.herokuapp.com/badge/powered-small.png)](https://github.com/Uroki)
+![Uroki RT](https://github.com/Uroki/Assets/blob/main/badge/powered-small.png?raw=true)
 
 - 👋 Hi, I’m @Uroki
 - 👀 I’m interested in ...
